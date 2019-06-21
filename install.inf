@@ -1,0 +1,6 @@
+[info]
+title=Linter for Erlang, using 'erlc'
+desc=Linter for CudaLint, adds support for Erlang lexer, using 'erlc'
+type=cudatext-plugin
+subdir=cuda_lint_erlc
+homepage=https://github.com/medvosa/cuda_lint_erlc
