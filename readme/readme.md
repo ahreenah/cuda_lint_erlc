@@ -11,5 +11,7 @@ Author: Medvosa
 
 License: MIT
 
-Used source from: https://github.com/teh-cmc/SublimeLinter-contrib-erlc/blob/master/
+Used source from: 
+https://packagecontrol.io/packages/SublimeLinter-contrib-erlc
+
 Author: teh-cmc
