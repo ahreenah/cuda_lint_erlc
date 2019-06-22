@@ -1,12 +1,10 @@
-"""This module exports the Perl -c util."""
+"""This module exports the erlc util."""
 
 from cuda_lint import Linter, util
-from cudatext import * 
-
 
 class Erlc(Linter):
 
-    """Provides an interface to puppet-lint"""
+    """Provides an interface to erlc"""
     cmd = None
     executable = 'erlc'
     multiline = False
