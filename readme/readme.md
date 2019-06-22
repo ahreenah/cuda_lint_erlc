@@ -3,7 +3,9 @@ It adds support for Erlang lexer.
 It uses "erlc".
 
 'erlc' must be in your system PATH.
-sudo apt-install erlang
+
+How to install on Ubuntu/Debian:
+$ sudo apt install erlang
 
 Author: Medvosa
 
