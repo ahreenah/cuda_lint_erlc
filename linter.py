@@ -21,8 +21,6 @@ class Erlc(Linter):
 
 
     def split_match(self, match):
-        print('plit_match')
-        print(match)
    
         """Return the components of the error."""
         split_match = super(Erlc, self).split_match(match)
@@ -33,7 +31,6 @@ class Erlc(Linter):
 
 
     def cmd(self):
-        print('cmd')
         """Return the command line to execute."""
         result = self.executable + ' ' + self.base_cmd
 
